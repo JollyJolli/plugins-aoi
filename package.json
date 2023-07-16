@@ -1,0 +1,26 @@
+{
+  "name": "@perdido/plugins-aoi",
+  "version": "0.1.0",
+  "description": "Plugins for aoi.js",
+  "main": "/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JollyJolli/plugins-aoi.git"
+  },
+  "keywords": [
+    "aoi",
+    "aoi.js",
+    "discord",
+    "dodo",
+    "jolly"
+  ],
+  "author": "Jolly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JollyJolli/plugins-aoi:/issues"
+  },
+  "homepage": "https://github.com/JollyJolli/plugins-aoi:#readme"
+}
